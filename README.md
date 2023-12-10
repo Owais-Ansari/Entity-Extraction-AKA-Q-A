@@ -1,2 +1,2 @@
-# Entitty-Extraction-AKA-Q-A
+# Entitty-Extraction AKA Q&A
 Question answer module
