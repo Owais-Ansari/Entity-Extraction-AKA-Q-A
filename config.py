@@ -1,9 +1,4 @@
-'''
-Created on 22-Sep-2023
 
-@author: owaishs
-
-'''
 import transformers
 import tokenizers
 import os
