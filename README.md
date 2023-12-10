@@ -1,4 +1,4 @@
-# Entitty-Extraction AKA Q&A
+# Entity-Extraction AKA Q&A
 Tweet sentiment extraction
 
 Update config in order to train on Tweets for text extraction also known as (AKA) Question and answer.
